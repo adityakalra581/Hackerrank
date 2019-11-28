@@ -1,11 +1,18 @@
 
-PROBLEM LINK:
-https://www.hackerrank.com/challenges/python-lists/problem
+# PROBLEM LINK:
+# https://www.hackerrank.com/challenges/python-lists/problem
+# REFER THE LINK FOR FULL PROBLEM EXPLANATION.
 
+'''Consider a list (list = []). You can perform the following commands:
 
-
-
-
+insert 
+print: Print the list.
+remove e: Delete the first occurrence of integer .
+append e: Insert integer at the end of the list.
+sort: Sort the list.
+pop: Pop the last element from the list.
+reverse: Reverse the list.
+'''
 
 n=int(input())
 l=[]
